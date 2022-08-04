@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    font-family: 'Poppins';
+}
+/* body{
+
+} */
+.container{
+    width: 80%;
+    margin: 0 auto;
+    /* height: 100px; */
+}
+
+.button-group{
+    position: absolute;
+    right: 70px;
+    top:80px;
+
+}
+img[alt="brand-logo"]{
+    /* margin-left: 90px; */
+    margin-top: 70px;
+    height: 40px;
+}
+.list{
+    position: relative;
+    list-style: none;
+    margin: 0 auto;
+    width:850px;
+    top:-35px;
+    color:rgb(156, 156, 156);
+}
+.list-item{
+    margin-left: 30px;
+    display: inline-block;
+    
+}
+.list-item:first-child{
+    /* font-weight: bold; */
+color: #000;
+}
+.nav-button{
+    background-color: #5955B3;
+    padding: 15px 30px;
+    border-radius: 10px;
+    border: none;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 450;
+}
+img[alt="illustration"]{
+    position: absolute;
+    right: 0;
+    top:200px;
+    bottom: 100px;
+    height: 500px;
+}
+.heading-text{
+    font-size: 57px;
+    width: 550px;
+    margin-top: 90px;
+    color:#3C2F60;
+}
+.heading-text span{
+    color: #5955B3;
+}
+.description{
+    color: rgb(156, 156, 156);
+    font-weight: 400;
+    font-size: 15px;
+    width: 350px;
+    margin-top: 18px;
+}
+.btn{
+    margin-top: 50px;
+    padding: 20px 40px;
+    
+}
