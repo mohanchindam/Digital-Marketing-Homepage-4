@@ -11,7 +11,7 @@
 ![Project-04 Preview](./Project-04.jpg)
 
 Project is deployed on **Netlify**:
-- You can preview the project here, [**Digital Marketing Homepage**]()
+- You can preview the project here, [**Digital Marketing Homepage**](https://digital-marketing-homepage-4.netlify.app/)
 
 
 
